@@ -14,7 +14,7 @@ const WhereToBuy = () => {
     },
     {
       name: "Extra",
-      logo: "https://teles-lpsaxv.manus.space/assets/extra-D2tvh-su.jpg",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Extra_logo_2005.svg/250px-Extra_logo_2005.svg.png",
       url: "https://www.extra.com.br/teles-forever-a-ultima-verdade/p/1576345802"
     },
     {
