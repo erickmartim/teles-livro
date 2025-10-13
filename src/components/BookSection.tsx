@@ -35,7 +35,7 @@ const BookSection = () => {
           
           <div className="order-1 md:order-2 animate-fade-in">
             <img 
-              src="https://teles-lpsaxv.manus.space/assets/book-cover-i2jkNOSo.webp"
+              src="https://http2.mlstatic.com/D_NQ_NP_2X_872348-MLB93092704773_092025-F.webp"
               alt="Teles Forever: A Última Verdade"
               className="w-full max-w-md mx-auto rounded-2xl shadow-strong hover:shadow-medium transition-shadow duration-300"
             />
