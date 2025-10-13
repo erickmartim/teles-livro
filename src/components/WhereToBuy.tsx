@@ -4,12 +4,12 @@ const WhereToBuy = () => {
   const stores = [
     {
       name: "Mercado Livre",
-      logo: "https://teles-lpsaxv.manus.space/assets/mercado-livre-D8Ao8Wj0.jpg",
+      logo: "https://upload.wikimedia.org/wikipedia/pt/0/04/Logotipo_MercadoLivre.png",
       url: "https://www.mercadolivre.com.br/teles-forever-a-ultima-verdade/up/MLBU3440259912?has_official_store=false&highlight=false&pdp_filters=official_store%3A219884&headerTopBrand=false#polycard_client=search-nordic&search_layout=grid&position=1&type=product&tracking_id=763b9935-3b82-4e0c-8cbb-b57cc7f59dd4&wid=MLB4216668729&sid=search"
     },
     {
       name: "Casas Bahia",
-      logo: "https://teles-lpsaxv.manus.space/assets/casas-bahia-D0mSuVGy.png",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Casas_Bahia_logo.svg/2560px-Casas_Bahia_logo.svg.png",
       url: "https://www.casasbahia.com.br/teles-forever-a-ultima-verdade/p/1576345802"
     },
     {
@@ -19,7 +19,7 @@ const WhereToBuy = () => {
     },
     {
       name: "Ponto Frio",
-      logo: "https://teles-lpsaxv.manus.space/assets/ponto-frio-DVxzYEjj.png",
+      logo: "https://upload.wikimedia.org/wikipedia/pt/e/e8/Logotipo_do_Pontofrio.png",
       url: "https://www.pontofrio.com.br/teles-forever-a-ultima-verdade/p/1576345802"
     },
     {
